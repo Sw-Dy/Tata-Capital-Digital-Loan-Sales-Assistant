@@ -1,0 +1,704 @@
+2025-10-26 21:54:31,181 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 21:54:31,182 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 21:54:31,184 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 21:54:37,226 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 21:54:37,227 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 21:54:37,229 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 21:54:43,592 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 21:54:43,594 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 21:54:43,596 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 21:56:14,071 - tata_capital_web - ERROR - Error processing message: Expected dict, got <implementation.master_agent.ConversationState object at 0x000001491474AE70>
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 21:56:50,700 - tata_capital_web - ERROR - Error processing message: Expected dict, got <implementation.master_agent.ConversationState object at 0x000001491474AE70>
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 21:59:47,958 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 21:59:47,959 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 21:59:47,961 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 21:59:54,620 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 21:59:54,621 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 21:59:54,624 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:00:04,882 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:00:04,883 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:00:04,886 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:00:22,093 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:00:22,095 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:00:22,102 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:00:26,036 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:00:26,037 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:00:26,040 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:01:52,988 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:01:52,990 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:01:52,996 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:01:54,894 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:01:54,896 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:01:54,898 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:02:40,191 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:02:40,193 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:02:40,200 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:02:43,535 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:02:43,536 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:02:43,539 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:03:28,611 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:03:28,613 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:03:28,619 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:03:33,440 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:03:33,441 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:03:33,444 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:03:42,050 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:03:42,051 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:03:42,054 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:03:47,784 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:03:47,785 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:03:47,787 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:03:52,782 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:03:52,783 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:03:52,786 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:04:01,943 - tata_capital_web - ERROR - Error processing message: Expected dict, got <implementation.master_agent.ConversationState object at 0x000001C12E33DC40>
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:04:01,943 - tata_capital_web - ERROR - For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:04:42,422 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:04:42,423 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:04:42,425 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:04:43,555 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:04:43,556 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:04:43,559 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:04:45,581 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:04:45,582 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:04:45,585 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:04:47,381 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:04:47,382 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:04:47,384 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:05:31,496 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:05:31,497 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:05:31,498 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:05:35,635 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:05:35,636 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:05:35,637 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:05:36,432 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:05:36,433 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:05:36,434 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:05:39,441 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:05:39,442 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:05:39,443 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:06:04,791 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:06:04,792 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:06:04,793 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:06:07,238 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:06:07,239 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:06:07,240 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:06:15,081 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:06:15,082 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:06:15,083 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:06:19,077 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:06:19,079 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:06:19,079 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:06:32,610 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:06:32,610 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:06:32,612 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:06:36,190 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:06:36,191 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:06:36,192 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:06:50,844 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:06:50,845 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:06:50,846 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:06:53,184 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:06:53,185 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:06:53,186 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:07:23,640 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:07:23,640 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:07:23,642 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:07:28,280 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:07:28,281 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:07:28,283 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:07:33,144 - tata_capital_web - ERROR - Error processing message: Expected dict, got <implementation.master_agent.ConversationState object at 0x000001D7361FDBB0>
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:07:33,144 - tata_capital_web - ERROR - For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:07:33,155 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:07:33,155 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:07:33,157 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:08:26,837 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:08:26,838 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:08:26,838 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:08:31,826 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:08:31,828 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:08:31,830 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:08:34,778 - tata_capital_web - ERROR - Error processing message: Expected dict, got <implementation.master_agent.ConversationState object at 0x000001D7361FEEA0>
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:08:34,778 - tata_capital_web - ERROR - For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:08:35,127 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:08:35,128 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:08:35,130 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:09:24,105 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:09:24,106 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:09:24,109 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:09:31,297 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:09:31,297 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:09:31,299 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:10:01,737 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:10:01,738 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:10:01,738 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:10:11,181 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:10:11,181 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:10:11,183 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:10:14,885 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:10:14,886 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:10:14,888 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:10:17,260 - tata_capital_web - ERROR - Error processing message: None
+2025-10-26 22:10:17,260 - tata_capital_web - ERROR - For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:11:22,241 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:11:22,242 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:11:22,244 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:11:26,870 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:11:26,871 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:11:26,873 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:11:32,724 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:11:32,725 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:11:32,726 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:11:35,928 - tata_capital_web - ERROR - Error processing message: unhashable type: 'dict'
+2025-10-26 22:11:35,928 - tata_capital_web - ERROR - For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:13:03,601 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:13:03,603 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:13:03,604 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:13:10,988 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:13:10,989 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:13:10,990 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:13:17,129 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:13:17,130 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:13:17,132 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:13:23,836 - tata_capital_web - ERROR - Error processing message: None
+2025-10-26 22:13:23,836 - tata_capital_web - ERROR - For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:14:44,974 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:14:44,974 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:14:44,975 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:14:47,737 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:14:47,737 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:14:47,742 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:16:30,634 - tata_capital_web - ERROR - Error processing message: None
+2025-10-26 22:16:30,634 - tata_capital_web - ERROR - For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:20:35,532 - tata_capital_web - ERROR - Error processing message: None
+2025-10-26 22:20:35,532 - tata_capital_web - ERROR - For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:21:47,145 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:21:47,145 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:21:47,146 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:21:55,165 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:21:55,172 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:21:55,172 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:22:00,537 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:22:00,537 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:22:00,537 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:22:03,641 - tata_capital_web - ERROR - Error processing message: None
+2025-10-26 22:22:03,649 - tata_capital_web - ERROR - For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+2025-10-26 22:53:08,481 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:53:08,482 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:53:08,485 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:53:16,820 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:53:16,820 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:53:16,822 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:53:23,523 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:53:23,523 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:53:23,525 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:53:51,257 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    result = master_agent.graph.invoke({"message": request.message})
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 3094, in invoke
+    for chunk in self.stream(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 2679, in stream
+    for _ in runner.tick(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\_runner.py", line 167, in tick
+    run_with_retry(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\_retry.py", line 42, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\_internal\_runnable.py", line 658, in invoke
+    input = step.invoke(input, config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\_internal\_runnable.py", line 400, in invoke
+    ret = self.func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\graph\_branch.py", line 167, in _route
+    return self._finish(writer, input, result, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\graph\_branch.py", line 203, in _finish
+    r if isinstance(r, Send) else self.ends[r] for r in result
+                                  ~~~~~~~~~^^^
+KeyError: None
+During task with name 'determine_next_step' and id 'aa6616db-975c-17e6-9d2d-5e1aff6b20a0'
+2025-10-26 22:53:51,918 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    result = master_agent.graph.invoke({"message": request.message})
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 3094, in invoke
+    for chunk in self.stream(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 2679, in stream
+    for _ in runner.tick(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\_runner.py", line 167, in tick
+    run_with_retry(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\_retry.py", line 42, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\_internal\_runnable.py", line 658, in invoke
+    input = step.invoke(input, config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\_internal\_runnable.py", line 400, in invoke
+    ret = self.func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\graph\_branch.py", line 167, in _route
+    return self._finish(writer, input, result, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\graph\_branch.py", line 203, in _finish
+    r if isinstance(r, Send) else self.ends[r] for r in result
+                                  ~~~~~~~~~^^^
+KeyError: None
+During task with name 'determine_next_step' and id 'e097bf1e-6b29-ce9a-b5a5-392fe244d842'
+2025-10-26 22:54:23,958 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:54:23,960 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:54:23,965 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:54:27,968 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:54:27,969 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:54:27,971 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:54:30,627 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:54:30,627 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:54:30,629 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:54:41,002 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    response = master_agent.process_message(request.message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 938, in process_message
+    result = self.graph.invoke({"message": user_message})
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 3094, in invoke
+    for chunk in self.stream(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 2679, in stream
+    for _ in runner.tick(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\_runner.py", line 167, in tick
+    run_with_retry(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\_retry.py", line 42, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\_internal\_runnable.py", line 658, in invoke
+    input = step.invoke(input, config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\_internal\_runnable.py", line 400, in invoke
+    ret = self.func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\graph\_branch.py", line 167, in _route
+    return self._finish(writer, input, result, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\graph\_branch.py", line 203, in _finish
+    r if isinstance(r, Send) else self.ends[r] for r in result
+                                  ~~~~~~~~~^^^
+KeyError: None
+During task with name 'determine_next_step' and id 'e5f36995-816a-4c13-0f74-637373d847a3'
+2025-10-26 22:55:10,170 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    response = master_agent.process_message(request.message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 938, in process_message
+    result = self.graph.invoke({"message": user_message})
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 3094, in invoke
+    for chunk in self.stream(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 2679, in stream
+    for _ in runner.tick(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\_runner.py", line 167, in tick
+    run_with_retry(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\_retry.py", line 42, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\_internal\_runnable.py", line 658, in invoke
+    input = step.invoke(input, config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\_internal\_runnable.py", line 400, in invoke
+    ret = self.func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\graph\_branch.py", line 167, in _route
+    return self._finish(writer, input, result, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\graph\_branch.py", line 203, in _finish
+    r if isinstance(r, Send) else self.ends[r] for r in result
+                                  ~~~~~~~~~^^^
+KeyError: None
+During task with name 'determine_next_step' and id '7ff293c0-6f93-246f-47ce-724602a68f6f'
+2025-10-26 22:55:22,424 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:55:22,424 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:55:22,424 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:55:27,986 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:55:27,987 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:55:27,989 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:55:31,581 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:55:31,583 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:55:31,585 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:57:04,662 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    response = master_agent.process_message(request.message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 945, in process_message
+    print("\n" + "-"*50)
+                 ^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 3094, in invoke
+    for chunk in self.stream(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 2707, in stream
+    raise GraphRecursionError(msg)
+langgraph.errors.GraphRecursionError: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT
+2025-10-26 22:57:18,494 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:57:18,494 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:57:18,497 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:57:23,456 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:57:23,457 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:57:23,459 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:57:29,423 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:57:29,424 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:57:29,425 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:58:47,758 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    response = master_agent.process_message(request.message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 961, in process_message
+    result = self.graph.invoke({"message": user_message})
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 3094, in invoke
+    for chunk in self.stream(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 2707, in stream
+    raise GraphRecursionError(msg)
+langgraph.errors.GraphRecursionError: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT
+2025-10-26 22:59:33,013 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:59:33,013 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:59:33,015 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:59:42,001 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:59:42,002 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:59:42,003 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 22:59:45,929 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 22:59:45,930 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 22:59:45,931 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:01:27,706 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    response = master_agent.process_message(request.message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 968, in process_message
+    result = self.graph.invoke({"message": user_message})
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 3094, in invoke
+    for chunk in self.stream(
+  File "C:\Users\ASUS\miniconda3\Lib\site-packages\langgraph\pregel\main.py", line 2707, in stream
+    raise GraphRecursionError(msg)
+langgraph.errors.GraphRecursionError: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT
+2025-10-26 23:02:11,695 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:02:11,696 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:02:11,696 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:02:17,146 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:02:17,147 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:02:17,148 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:02:22,071 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:02:22,072 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:02:22,073 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:02:32,108 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    response = master_agent.process_message(request.message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 969, in process_message
+    raise ValueError(f"Expected dict, got {type(result)}")
+ValueError: Expected dict, got <class 'NoneType'>
+2025-10-26 23:03:04,288 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:03:04,288 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:03:04,290 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:03:16,805 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:03:16,806 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:03:16,808 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:03:21,667 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:03:21,668 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:03:21,669 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:03:24,441 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:03:24,442 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:03:24,443 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:03:43,875 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    response = master_agent.process_message(request.message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 969, in process_message
+    raise ValueError(f"Expected dict, got {type(result)}")
+ValueError: Expected dict, got <class 'NoneType'>
+2025-10-26 23:04:31,303 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:04:31,304 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:04:31,305 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:04:38,523 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:04:38,523 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:04:38,523 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:04:41,409 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:04:41,409 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:04:41,411 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:04:52,222 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    response = master_agent.process_message(request.message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 969, in process_message
+    raise ValueError(f"Expected dict, got {type(result)}")
+ValueError: Expected dict, got <class 'NoneType'>
+2025-10-26 23:05:22,187 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:05:22,188 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:05:22,189 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:05:24,599 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:05:24,600 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:05:24,601 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:26:54,003 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:26:54,003 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:26:54,005 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:27:00,056 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:27:00,057 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:27:00,059 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:27:55,170 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:27:55,172 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:27:55,173 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:28:00,744 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:28:00,745 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:28:00,748 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:28:13,382 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:28:13,383 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:28:13,384 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:28:18,683 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:28:18,684 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:28:18,685 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:28:21,938 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:28:21,939 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:28:21,941 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:30:03,896 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 89, in process_message
+    result = master_agent.process_message(request.message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 969, in process_message
+    raise ValueError(f"Expected dict, got {type(result)}")
+ValueError: Expected dict, got <class 'NoneType'>
+2025-10-26 23:52:36,709 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:52:36,709 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:52:36,709 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:52:39,027 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:52:39,027 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:52:39,029 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:52:50,652 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 87, in process_message
+    result = master_agent.process_message(request.message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\EY_techathon 6.O\implementation\master_agent.py", line 969, in process_message
+    raise ValueError(f"Expected dict, got {type(result)}")
+ValueError: Expected dict, got <class 'NoneType'>
+2025-10-26 23:59:31,810 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:59:31,811 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:59:31,812 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:59:35,159 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:59:35,159 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:59:35,161 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:59:54,786 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:59:54,786 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:59:54,788 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 23:59:58,140 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 23:59:58,140 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 23:59:58,142 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 00:00:06,045 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 87, in process_message
+    result = master_agent.process_message(request.message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MasterAgent' object has no attribute 'process_message'
+2025-10-27 00:01:25,083 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 00:01:25,085 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 00:01:25,086 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 00:01:29,608 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 87, in process_message
+    result = master_agent.process_message(request.message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MasterAgent' object has no attribute 'process_message'
+2025-10-27 00:01:34,492 - tata_capital_web - ERROR - Error processing message:
+Traceback (most recent call last):
+  File "D:\EY_techathon 6.O\web_app.py", line 87, in process_message
+    result = master_agent.process_message(request.message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MasterAgent' object has no attribute 'process_message'
+2025-10-27 00:03:03,666 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 00:03:03,668 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 00:03:03,669 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 00:09:02,294 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 00:09:02,295 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 00:09:02,298 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 00:09:07,831 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 00:09:07,831 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 00:09:07,831 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 00:09:12,977 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 00:09:12,977 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 00:09:12,977 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 00:13:51,132 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 00:13:51,133 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 00:13:51,134 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 00:13:52,923 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 00:13:52,923 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 00:13:52,926 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 00:15:59,797 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 00:15:59,798 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 00:15:59,801 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 00:16:05,024 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 00:16:05,024 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 00:16:05,024 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:06:00,718 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:06:00,718 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:06:00,720 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:06:07,745 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:06:07,745 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:06:07,745 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:06:12,522 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:06:12,523 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:06:12,524 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:30:13,701 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:30:13,702 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:30:13,705 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:30:16,886 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:30:16,887 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:30:16,888 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:33:48,797 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:33:48,797 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:33:48,797 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:33:52,481 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:33:52,482 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:33:52,484 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:34:05,109 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:34:05,110 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:34:05,113 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:34:10,210 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:34:10,210 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:34:10,211 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:34:27,846 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:34:27,847 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:34:27,848 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:34:31,110 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:34:31,111 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:34:31,112 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:40:46,018 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:40:46,019 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:40:46,020 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:40:51,674 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:40:51,675 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:40:51,676 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:40:58,877 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:40:58,878 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:40:58,879 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:41:01,364 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:41:01,364 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:41:01,366 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:43:29,616 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:43:29,618 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:43:29,618 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:43:36,363 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:43:36,364 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:43:36,365 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:47:53,781 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:47:53,782 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:47:53,785 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:47:58,146 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:47:58,147 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:47:58,148 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:48:41,881 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:48:41,882 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:48:41,883 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:48:45,672 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:48:45,672 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:48:45,674 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:00,558 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:00,559 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:00,560 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:03,288 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:03,289 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:03,291 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:10,493 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:10,494 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:10,494 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:13,065 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:13,067 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:13,068 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:25,704 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:25,705 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:25,707 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:28,796 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:28,797 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:28,798 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:40,371 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:40,372 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:40,373 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:44,218 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:44,219 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:44,220 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:56,692 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:56,692 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:56,694 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:49:58,490 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:49:58,490 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:49:58,490 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:50:06,648 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:50:06,649 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:50:06,651 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:50:12,875 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:50:12,876 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:50:12,878 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:50:19,924 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:50:19,925 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:50:19,927 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:50:22,993 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:50:22,994 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:50:22,995 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:51:49,401 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:51:49,402 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:51:49,404 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:51:52,923 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:51:52,924 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:51:52,925 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:52:02,746 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:52:02,747 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:52:02,748 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:52:06,255 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:52:06,255 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:52:06,255 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:54:01,310 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:54:01,310 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:54:01,310 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:54:06,821 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:54:06,821 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:54:06,823 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:54:23,496 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:54:23,497 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:54:23,499 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:54:26,153 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:54:26,158 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:54:26,158 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:54:32,810 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:54:32,810 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:54:32,812 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:54:38,624 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:54:38,624 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:54:38,625 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:54:56,522 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:54:56,523 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:54:56,524 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-27 14:55:00,205 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-27 14:55:00,205 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-27 14:55:00,210 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 23:34:49,543 - __main__ - INFO - Tata Capital Loan Processing System - Database Setup
+2025-11-07 23:34:49,543 - __main__ - INFO - ============================================================
+2025-11-07 23:34:49,548 - __main__ - INFO - Loaded environment variables from D:\EY_techathon 6.O\.env
+2025-11-07 23:34:49,548 - __main__ - INFO - Starting database initialization...
+2025-11-07 23:34:49,699 - __main__ - ERROR - Database initialization failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-07 23:34:49,703 - __main__ - ERROR - Please check your database configuration and try again.

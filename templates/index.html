@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tata Capital Digital Loan Sales Assistant</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tata Capital Digital Loan Sales Assistant</h1>
+        </header>
+        
+        <div class="main-content">
+            <div class="chat-container">
+                <div class="chat-messages" id="chatMessages">
+                    <!-- Chat messages will be displayed here -->
+                </div>
+                
+                <div class="chat-input">
+                    <input type="text" id="messageInput" placeholder="Type your message here...">
+                    <button id="sendButton">Send</button>
+                </div>
+            </div>
+            
+            <div class="sidebar">
+                <div class="loan-status">
+                    <h2>Loan Application Status</h2>
+                    <div id="loanStageIndicator" class="stage-indicator">
+                        <div class="stage" data-stage="greeting">Greeting</div>
+                        <div class="stage" data-stage="intent_capture">Intent Capture</div>
+                        <div class="stage" data-stage="sales_exploration">Sales Exploration</div>
+                        <div class="stage" data-stage="verification">Verification</div>
+                        <div class="stage" data-stage="underwriting">Underwriting</div>
+                        <div class="stage" data-stage="documentation">Documentation</div>
+                        <div class="stage" data-stage="closure">Closure</div>
+                    </div>
+                    
+                    <div class="loan-details" id="loanDetails">
+                        <!-- Loan details will be displayed here -->
+                    </div>
+                </div>
+                
+                <div class="document-upload">
+                    <h2>Upload Documents</h2>
+                    <form id="documentUploadForm">
+                        <select id="documentType" name="documentType" required>
+                            <option value="">Select Document Type</option>
+                            <option value="salary_slip">Salary Slip</option>
+                            <option value="bank_statement">Bank Statement</option>
+                            <option value="income_tax_return">Income Tax Return</option>
+                            <option value="form_16">Form 16</option>
+                            <option value="identity_proof">Identity Proof</option>
+                            <option value="address_proof">Address Proof</option>
+                        </select>
+                        <input type="file" id="documentFile" name="file" required>
+                        <button type="submit">Upload</button>
+                    </form>
+                    <div id="uploadStatus"></div>
+                </div>
+                
+                <div class="sanction-letter" id="sanctionLetterSection" style="display: none;">
+                    <h2>Sanction Letter</h2>
+                    <p>Your loan has been approved! Download your sanction letter below.</p>
+                    <button id="downloadSanctionLetter">Download Sanction Letter</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="/static/script.js"></script>
+</body>
+</html>

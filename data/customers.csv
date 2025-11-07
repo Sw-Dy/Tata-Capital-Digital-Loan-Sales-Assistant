@@ -1,0 +1,11 @@
+customer_id,name,age,city,current_loan,credit_score,pre_approved_limit
+TC001,Rajesh Kumar,32,Mumbai,Home Loan,780,500000
+TC002,Priya Sharma,28,Delhi,,820,600000
+TC003,Amit Patel,35,Ahmedabad,Business Loan,750,800000
+TC004,Sunita Reddy,42,Hyderabad,Home Loan,850,1000000
+TC005,Vikram Singh,30,Bangalore,Car Loan,720,400000
+TC006,Meera Joshi,38,Pune,Personal Loan,680,300000
+TC007,Arjun Nair,45,Chennai,Home Loan,790,700000
+TC008,Neha Gupta,33,Kolkata,,810,550000
+TC009,Rahul Verma,29,Jaipur,Education Loan,730,450000
+TC010,Ananya Das,36,Lucknow,,760,500000

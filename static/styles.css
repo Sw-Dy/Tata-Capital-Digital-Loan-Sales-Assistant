@@ -1,0 +1,235 @@
+/* Global Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #00539f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+    margin-bottom: 20px;
+}
+
+/* Main Content Layout */
+.main-content {
+    display: flex;
+    gap: 20px;
+}
+
+.chat-container {
+    flex: 2;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Chat Styles */
+.chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 20px;
+}
+
+.message {
+    margin-bottom: 15px;
+    padding: 10px 15px;
+    border-radius: 15px;
+    max-width: 80%;
+    word-wrap: break-word;
+}
+
+.user-message {
+    background-color: #e6f2ff;
+    margin-left: auto;
+    border-bottom-right-radius: 5px;
+}
+
+.assistant-message {
+    background-color: #f0f0f0;
+    margin-right: auto;
+    border-bottom-left-radius: 5px;
+}
+
+.system-message {
+    background-color: #fff3cd;
+    margin: 10px auto;
+    text-align: center;
+    font-style: italic;
+    border-radius: 5px;
+    padding: 5px 10px;
+    max-width: 90%;
+}
+
+.chat-input {
+    display: flex;
+    padding: 15px;
+    border-top: 1px solid #eee;
+}
+
+.chat-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+}
+
+.chat-input button {
+    padding: 10px 20px;
+    background-color: #00539f;
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.chat-input button:hover {
+    background-color: #003b70;
+}
+
+/* Loan Status Styles */
+.loan-status, .document-upload, .sanction-letter {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.stage-indicator {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: 15px 0;
+}
+
+.stage {
+    padding: 8px 15px;
+    background-color: #eee;
+    border-radius: 5px;
+    position: relative;
+}
+
+.stage.active {
+    background-color: #00539f;
+    color: white;
+}
+
+.stage.completed {
+    background-color: #4caf50;
+    color: white;
+}
+
+.loan-details {
+    margin-top: 20px;
+}
+
+.loan-details dl {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.loan-details dt {
+    font-weight: bold;
+}
+
+/* Document Upload Styles */
+.document-upload form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.document-upload select, .document-upload input[type="file"] {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.document-upload button {
+    padding: 10px;
+    background-color: #00539f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.document-upload button:hover {
+    background-color: #003b70;
+}
+
+#uploadStatus {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.upload-success {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.upload-error {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+/* Sanction Letter Styles */
+.sanction-letter {
+    text-align: center;
+}
+
+.sanction-letter button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.sanction-letter button:hover {
+    background-color: #3e8e41;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .main-content {
+        flex-direction: column;
+    }
+    
+    .chat-container {
+        height: 50vh;
+    }
+}

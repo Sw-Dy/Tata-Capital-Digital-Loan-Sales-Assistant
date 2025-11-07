@@ -1,0 +1,131 @@
+2025-10-26 17:17:24,417 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 17:17:24,417 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 17:17:24,417 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 17:17:54,497 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:17:54,520 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:18:09,392 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:18:51,582 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:20:10,446 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 17:20:10,446 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 17:20:10,446 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 17:20:22,857 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:20:28,268 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:20:31,546 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:22:59,472 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 17:22:59,475 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 17:22:59,476 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 17:23:03,901 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:30:52,477 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 17:30:52,477 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 17:30:52,477 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 17:30:59,787 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:31:14,900 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:31:23,981 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 17:31:26,016 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 18:04:28,356 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:04:28,357 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:04:28,360 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:05:17,838 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 18:05:23,024 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 18:07:14,867 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:07:14,876 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:07:14,876 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:07:29,817 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 18:07:38,736 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 18:09:05,197 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:09:05,197 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:09:05,197 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:09:12,281 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 18:09:17,166 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 18:11:00,313 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:11:00,314 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:11:00,316 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:11:45,786 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:11:45,786 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:11:45,789 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:12:19,438 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:12:19,439 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:12:19,441 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:12:25,006 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 18:12:29,638 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-10-26 18:13:09,685 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:13:09,686 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:13:09,688 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:16:22,588 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:16:22,588 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:16:22,591 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:16:58,744 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:16:58,744 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:16:58,744 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:18:55,082 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:18:55,083 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:18:55,084 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:19:30,785 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:19:30,785 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:19:30,787 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:19:49,965 - implementation.sales_agent - INFO - Sales Agent processing conversation state
+2025-10-26 18:20:07,133 - tata_capital_assistant - INFO - Conversation stage: sales_exploration, Decision: pending
+2025-10-26 18:20:31,734 - implementation.sales_agent - INFO - Sales Agent processing conversation state
+2025-10-26 18:20:46,303 - tata_capital_assistant - INFO - Conversation stage: sales_exploration, Decision: pending
+2025-10-26 18:22:02,567 - implementation.sales_agent - INFO - Sales Agent processing conversation state
+2025-10-26 18:22:16,042 - tata_capital_assistant - INFO - Conversation stage: sales_exploration, Decision: pending
+2025-10-26 18:23:09,495 - implementation.sales_agent - INFO - Sales Agent processing conversation state
+2025-10-26 18:23:23,753 - tata_capital_assistant - INFO - Conversation stage: sales_exploration, Decision: pending
+2025-10-26 18:24:54,063 - implementation.verification_agent - INFO - Verification Agent processing conversation state
+2025-10-26 18:25:03,058 - tata_capital_assistant - INFO - Conversation stage: verification, Decision: pending
+2025-10-26 18:26:22,440 - implementation.verification_agent - INFO - Verification Agent processing conversation state
+2025-10-26 18:26:29,042 - tata_capital_assistant - INFO - Conversation stage: verification, Decision: pending
+2025-10-26 18:27:17,333 - implementation.verification_agent - INFO - Verification Agent processing conversation state
+2025-10-26 18:27:28,414 - tata_capital_assistant - INFO - Conversation stage: verification, Decision: pending
+2025-10-26 18:30:02,094 - implementation.underwriting_agent - INFO - Underwriting Agent processing conversation state
+2025-10-26 18:30:16,074 - tata_capital_assistant - INFO - Conversation stage: underwriting, Decision: pending
+2025-10-26 18:31:38,209 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:31:38,210 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:31:38,211 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:31:45,306 - implementation.sales_agent - INFO - Sales Agent processing conversation state
+2025-10-26 18:38:18,633 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-10-26 18:38:18,633 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-10-26 18:38:18,635 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-10-26 18:38:51,290 - implementation.sales_agent - INFO - Sales Agent processing conversation state
+2025-10-26 18:39:04,894 - tata_capital_assistant - INFO - Conversation stage: sales_exploration, Decision: pending
+2025-10-26 18:45:12,603 - implementation.verification_agent - INFO - Verification Agent processing conversation state
+2025-10-26 18:45:30,305 - tata_capital_assistant - INFO - Conversation stage: verification, Decision: pending
+2025-10-26 18:46:10,423 - implementation.underwriting_agent - INFO - Underwriting Agent processing conversation state
+2025-10-26 18:46:26,111 - tata_capital_assistant - INFO - Conversation stage: underwriting, Decision: pending
+2025-11-03 22:48:21,942 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-11-03 22:48:21,943 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-11-03 22:48:21,946 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 22:18:15,663 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-11-07 22:18:15,664 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-11-07 22:18:15,667 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 22:21:41,875 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-11-07 22:21:41,875 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-11-07 22:21:41,877 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 22:22:33,309 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-11-07 22:22:33,310 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-11-07 22:22:33,312 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 22:23:34,337 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-11-07 22:23:34,338 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-11-07 22:23:34,340 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 22:29:07,008 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-11-07 22:29:07,009 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-11-07 22:29:07,010 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 22:29:11,216 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-11-07 22:29:25,177 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-11-07 22:31:16,287 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-11-07 22:31:16,288 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-11-07 22:31:16,291 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 22:32:07,124 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-11-07 22:32:15,358 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-11-07 22:32:15,358 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-11-07 22:32:15,360 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 22:32:45,555 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-11-07 22:32:51,765 - implementation.sales_agent - INFO - Loaded customers data from CSV
+2025-11-07 22:32:51,765 - implementation.underwriting_agent - INFO - Underwriting Agent initialized with CSV data
+2025-11-07 22:32:51,765 - implementation.sanction_letter_generator - INFO - Sanction Letter Generator initialized with CSV data
+2025-11-07 22:35:18,652 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-11-07 22:37:31,489 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-11-07 22:37:49,376 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-11-07 22:39:37,116 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-11-07 22:54:59,133 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
+2025-11-08 00:11:21,958 - tata_capital_assistant - INFO - Conversation stage: greeting, Decision: pending
